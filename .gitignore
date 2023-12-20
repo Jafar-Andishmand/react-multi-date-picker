@@ -3,5 +3,4 @@
 /website/node_modules
 /website/public
 /website/.cache
-.npmignore 
 .vscode
