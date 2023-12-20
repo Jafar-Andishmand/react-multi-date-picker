@@ -74,8 +74,8 @@
     "rollup-plugin-terser": "^7.0.2"
   },
   "dependencies": {
-    "react-date-object": "^2.1.8",
-    "react-element-popper": "^2.1.6"
+    "react-date-object": "https://github.com/Jafar-Andishmand/react-date-object.git",
+    "react-element-popper": "https://github.com/Jafar-Andishmand/react-element-popper.git"
   },
   "peerDependencies": {
     "react": ">=16.8.0",
